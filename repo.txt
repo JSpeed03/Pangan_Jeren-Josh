@@ -1,0 +1,5 @@
+*folder/zip file
+-upload to github repository
+-call repository from github to Netlify
+use the provided link from Netlify
+live portfolio
